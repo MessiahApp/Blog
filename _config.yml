@@ -7,12 +7,13 @@ dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	  http://mharoonbaig.github.io/PyBaig
+#url:        	  http://127.0.0.1:4000
+url: http://mharoonbaig.github.io/PyBaig/
 
 # Owner/author information
 owner:
   name:           M. Haroon Baig
-  avatar:         MyPic.jpg
+  avatar:         MyPic3.jpg
   email:          haroon.prog@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Awesome Dude, Awesome Life
