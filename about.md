@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Mohd Haroon Baig
-tags: [Hossain, Mohd, Faysal, hmfaysal]
-imagefeature: fourseasons.jpg
+title: We are the Messiahs
+tags: [Messiah, App, iOS, Android]
+#imagefeature: fourseasons.jpg
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/MyPic.jpg" alt="Hossain Mohammad Faysal">
-  <figcaption>Muhammad Haroon Baig</figcaption>
+  <img src="{{ site.url }}/images/MessiahCover.jpg" alt="The Messiah Cover">
+  <figcaption>The Messiah</figcaption>
 </figure>
 
 {% assign total_words = 0 %}
@@ -27,7 +27,7 @@ chart: true
 {% endfor %}
 Hi folks. I'm **Muhammad Haroon Baig**, a slash coder and a techie guy digging deep into various new tech-related stuff with great enthusiasm to try new gadgets. I usually spend a lot of time coding in Python and Swift, configuring Linux and exploring Django.
 
-Curretly, I'm a Microsoft Student Partner, a Computer Systems Engineer and a researcher. One of my findings was published in the International Conference on Space 2014, held in Islamabad. 
+Curretly, I'm a Microsoft Student Partner, a Computer Systems Engineer and a researcher. One of my findings was published in the International Conference on Space 2014, held in Islamabad.
 
 *[ESE]: Electrical and Systems Engineering
 *[SEAS]: School of Engineering and Applied Science
