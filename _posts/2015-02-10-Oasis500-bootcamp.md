@@ -14,7 +14,7 @@ featured: true
 ---
 <figure>
   <img src="{{ site.url }}/images/team.jpg" alt="The Messiah Cover">
-  <figcaption>The Messiah Team</figcaption>
+  <figcaption>The Messiah Team.</figcaption>
 </figure>
 
 Messiah App is going to attend Oasis 500 Bootcamp in Amman and we're really excited for this opportunity. We look forward to represent Pakistan on the largest tech initiative in the Middle East. Download the app now and be a part of our community to make this Civic App a great success. We're also thankful to Code for Pakistan for providing us a great number of opportunities while being a part of their great Fellowship program, it was a great journey indeed.
