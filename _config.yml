@@ -73,7 +73,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://messiahapp.github.io/Blog/'
+  siteurl: 'http://messiahapp.github.io/Blog'
   relativeLinks: 'http://messiahapp.github.io/Blog/links.jsonp'
   media: 'images'
   metadata:
