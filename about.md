@@ -34,7 +34,7 @@ Messiah is a civic startup which has a citizen-centric support model. Messiah is
 *[UPENN]: University of Pennsylvania
 
 <figure>
-	<img src="{{ site.url }}/images/fellowship.jpg" alt="We at fellowship program >
+	<img src="{{ site.url }}/images/fellowship.jpg" alt="We at fellowship program">
 	<figcaption>At Fellowship Program</figcaption>
 </figure>
 
