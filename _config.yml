@@ -41,8 +41,8 @@ links:
     icon: home
   - title: Featured Posts
     url: /featured
-  - title: Categories
-    url: /categories
+  #- title: Categories
+  #  url: /categories
   - title: About
     url: /about
 
