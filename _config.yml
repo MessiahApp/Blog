@@ -1,5 +1,5 @@
-title:            PyBaig
-description:      "Blogging is fun"
+title:            Messiah
+description:      "We don't charge to save your life"
 logo:             logo.png
 disqus_shortname: hmfaysal
 share:            true
@@ -8,7 +8,8 @@ dropcap:			true
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 #url:        	  http://127.0.0.1:4000
-url: http://mharoonbaig.github.io/PyBaig/
+#url: http://mharoonbaig.github.io/PyBaig/
+url: http://messiahapp.github.io/Blog/
 
 # Owner/author information
 owner:
@@ -72,8 +73,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://mharoonbaig.github.io/PyBaig/'
-  relativeLinks: 'http://mharoonbaig.github.io/PyBaig/links.jsonp'
+  siteurl: 'http://messiahapp.github.io/Blog/'
+  relativeLinks: 'http://messiahapp.github.io/Blog/links.jsonp'
   media: 'images'
   metadata:
     _posts:
