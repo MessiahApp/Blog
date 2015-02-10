@@ -26,6 +26,26 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/u/0/+MuhammadHaroonBaig_init/posts
 
+authors:
+  Zahid:
+    display_name:   Zahid Khan
+    description:    Awesome Dude, Awesome Life
+    avatar: Zahid.jpg
+  #  gravatar: 60fd5218fff6927c0ed376cce01c5460
+  #  email: matt@lostdecadegames.com
+  #  web: http://www.richtaur.com/
+  #  twitter: richtaur
+  #  github: richtaur
+  geoff:
+    display_name:   Geoff Blair
+    description:    Awesome Dude, Awesome Life
+    avatar:         Zahid.jpg
+  #  gravatar: 76dbcc74021b8039f14c7b583978b56d
+  #  email: geoff@lostdecadegames.com
+  #  web: http://www.geoffblair.com/
+  #  twitter: geoffblair
+  #  github: geoffb
+
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-50966088-3
 google_verify:
