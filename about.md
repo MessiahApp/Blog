@@ -8,7 +8,7 @@ chart: true
 ---
 <figure>
   <img src="{{ site.url }}/images/MessiahCover.jpg" alt="The Messiah Cover">
-  <figcaption>The Messiah</figcaption>
+  <figcaption>The Messiah Badge</figcaption>
 </figure>
 
 {% assign total_words = 0 %}
