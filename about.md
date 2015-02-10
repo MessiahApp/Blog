@@ -25,9 +25,7 @@ chart: true
     {% assign featuredcount = featuredcount | plus: 1 %}
     {% endif %}
 {% endfor %}
-Hi folks. I'm **Muhammad Haroon Baig**, a slash coder and a techie guy digging deep into various new tech-related stuff with great enthusiasm to try new gadgets. I usually spend a lot of time coding in Python and Swift, configuring Linux and exploring Django.
-
-Curretly, I'm a Microsoft Student Partner, a Computer Systems Engineer and a researcher. One of my findings was published in the International Conference on Space 2014, held in Islamabad.
+Messiah is a civic startup which has a citizen-centric support model. Messiah is an emergency first responder app designed to relay distress signal for the user in the case of an accident or emergency. Messiah relies on a community of Users (Samaritans) Which help each other in the case of emergencies. Messiah started off as a civic app in featured in the Peshawar Fellowship program.Messiah's mission is to make cities safer and use ICT technologies to Respond to Emergencies in the shortest time possible.
 
 *[ESE]: Electrical and Systems Engineering
 *[SEAS]: School of Engineering and Applied Science
