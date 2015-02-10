@@ -38,15 +38,4 @@ Messiah is a civic startup which has a citizen-centric support model. Messiah is
 	<figcaption>At Fellowship Program</figcaption>
 </figure>
 
-I was born in Pakistan, which is one of the loveliest countries with natures best gifts. From snowy peaks to vast deserts. It has shown the will and strength to fight worst terrorism of recent times and has contained it for peace of world.
-
-But over the years, I noticed that somehow, along the way, software designed to help us be creative, actually made us less creative. That's because we believe our best ideas emerge when we use pencils and paper.
-So I set out to build tools that work the way I do.
-
-
-For
-the makers,  
-the creators,  
-the discoverers,  
-the original thinkers,  
-***This is the space to create.***
+A city like Peshawar ends up in world news daily, mostly because of the terror threats and challenges it faces. But its irrepressible citizens find hope in other areas of progress. They rise to most challenges and resiliently look forward to doing more. The same passion is the fuel behind the Peshawar Fellowship Program. The program is 4 weeks old, but much has transpired in those 4 weeks moving at a very dynamic pace. We were happy to be part of this great Fellowship Program.
