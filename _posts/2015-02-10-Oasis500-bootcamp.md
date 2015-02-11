@@ -5,7 +5,7 @@ description: "We've got selected for Oasis500 Bootcamp"
 author: Haroon
 headline:
 modified: 2015-02-10
-category: acheivements
+category: achievements
 tags: [Oasis 500, bootcamp, startups]
 imagefeature:
 mathjax:
