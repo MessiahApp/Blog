@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oasis 500 Bootcamp"
-description: "We've got selected for Oasis500 Bootcamp"
+description: "We've got sponsored to Oasis500 Bootcamp"
 author: Haroon
 headline:
 modified: 2015-02-10
